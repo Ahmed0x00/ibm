@@ -1,0 +1,2 @@
+http://console.cloud.ibm.com
+http://eu-de.aiopenscale.cloud.ibm.com

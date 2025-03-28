@@ -1,0 +1,4 @@
+https://certtest.us-east-a.apiconnect.dev.automation.ibm.com
+https://test33.us-east-a.apiconnect.dev.automation.ibm.com
+https://turnstile.eu-west-a.apiconnect.automation.ibm.com
+https://turnstile.ap-southeast-b.apiconnect.automation.ibm.com

@@ -1,0 +1,7 @@
+https://console-00422.qradar.ibmcloud.com
+https://console-00800.qradar.ibmcloud.com
+https://console-00745.qradar.ibmcloud.com
+http://console-00314.qradar.ibmcloud.com
+https://osd.ops.apim.ibmcloud.com
+https://v10ri-monitor.ops.apim.ibmcloud.com
+https://v10ri-monitor2.ops.apim.ibmcloud.com

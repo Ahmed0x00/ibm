@@ -1,0 +1,10 @@
+http://acep.global.gslb.cloud-object-storage.cloud.ibm.com
+http://apihub.ibm.com
+https://broker.cis.cloud.ibm.com
+https://s3-prod-edit-idd.events.ibm.com
+https://s5-ode2-edit-idd.events.ibm.com
+http://s3-www-prd-trops.events.ibm.com
+https://s5-www-pre-trops.events.ibm.com
+http://setupmymac.ibm.com
+https://www-945spp.events.ibm.com
+http://www-930pre.events.ibm.com

@@ -1,4 +1,3 @@
-api.fairfield.cumulus.apim.ibmcloud.com
 service.fairfield.cumulus.apim.ibmcloud.com
 prd-smtsrv2.amm.ibmcloud.com
 n001a320.icds.ibmcloud.com

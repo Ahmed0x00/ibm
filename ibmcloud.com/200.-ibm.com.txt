@@ -1,0 +1,13 @@
+https://abv-peach.planning-analytics.ibmcloud.com
+https://abv-camel.planning-analytics.ibmcloud.com
+https://abv-pearl.planning-analytics.ibmcloud.com
+https://abv-saffron.planning-analytics.ibmcloud.com
+http://ap2designcdn.castiron.ibmcloud.com
+https://apps.pem.ibmcloud.com
+https://eu2designcdn.castiron.ibmcloud.com
+https://ibmlogin.ice.ibmcloud.com
+https://images.ice.ibmcloud.com
+https://na.inflight.b2b.ibmcloud.com
+https://pem.ibmcloud.com
+https://sdk.xforce.ibmcloud.com
+http://us2designcdn.castiron.ibmcloud.com

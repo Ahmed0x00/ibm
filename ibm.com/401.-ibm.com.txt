@@ -1,0 +1,3 @@
+https://alertmanager-wxai.ibm.us-east.platform.test.saas.ibm.com
+https://deliverycb-bld.dhe.ibm.com
+https://test.cloud.ibm.com

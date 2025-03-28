@@ -1,0 +1,2 @@
+https://ccs.ibmcloud.com
+https://conv-ci02.open-test.ibmcloud.com

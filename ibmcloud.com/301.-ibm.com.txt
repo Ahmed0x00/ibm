@@ -1,0 +1,10 @@
+http://api2.xforce.ibmcloud.com
+http://cloudoe.support.ibmcloud.com
+http://ibm.support.ibmcloud.com
+https://ios-api.us.apiconnect.ibmcloud.com
+http://iot.support.ibmcloud.com
+http://malware-api.xforce.ibmcloud.com
+http://nnpppilot.clm.ibmcloud.com
+http://prepiam.ice.ibmcloud.com
+http://wa.support.ibmcloud.com
+http://webformscte.b2b.ibmcloud.com
